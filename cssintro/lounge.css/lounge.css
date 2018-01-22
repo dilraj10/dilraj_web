@@ -1,0 +1,7 @@
+    p { color: maroon;} 
+    h1, h2 { font-family: sans-serif; color: gray; }
+    h1 {border-bottom: 1px solid black;}
+    .greentea{ color: green;}
+    .rasberry{ color: skyblue;}
+    .blueberry{ color:darkblue;}
+    .cranberry{ color:red;}
